@@ -1,1 +1,3 @@
 # Insider-Trading-Indicator-and-Analysis
+
+This project involved developing a Python-based tool that fetches data from openinsider.com, automating the extraction, processing, and analysis of insider trading activity. The code identifies key buy and sell signals by analyzing the ratio of insider purchases to sales. Additionally, it integrates S&P 500 historical data to visualize the correlation between insider trading behavior and market trends. The tool provides actionable insights into market sentiment, helping to identify potential investment opportunities. Key technologies used include Python, Pandas, Matplotlib, and YFinance.
